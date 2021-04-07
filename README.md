@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MagicLike
+👋 Hi, I’m @MagicLike
 
 <!---
 MagicLike/MagicLike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
