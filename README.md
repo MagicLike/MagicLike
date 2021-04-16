@@ -11,8 +11,7 @@ Participate and fight together against Covid 19 and other deseases!
   <!---
     Credits: https://xkcd.com/149/
   --->
-
-
+* Have fun!
 
 <br>
 
