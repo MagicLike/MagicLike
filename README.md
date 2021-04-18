@@ -8,7 +8,7 @@ Here are some advices:
 Participate and fight together against Covid 19 and other deseases!
   * [Download](https://www.foldingathome.org/download)
   * [GitHub](https://github.com/FoldingAtHome)
-* Care about your data and use a [secure, save & open source Messenger](https://github.com/MagicLike/secure-messaging/).
+* Care about your data and use a [secure & save messenger](https://github.com/MagicLike/secure-messaging/).
 * Always use sudo! <br>
   ![Sudo-Sandwich](/images/sandwich.png)
   <!---
