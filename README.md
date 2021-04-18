@@ -1,4 +1,4 @@
-👋 Hey there, I’m MagicLike! Welcome to my GitHub! :octocat:
+👋 Hey there, I’m MagicLike! Welcome to my GitHub!
 
 <br>
 
