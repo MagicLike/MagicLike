@@ -1,4 +1,4 @@
-:wave: Hey there, I’m MagicLike! Welcome to my GitHub! :octocat:
+👋 Hey there, I’m MagicLike! Welcome to my GitHub! :octocat:
 
 <br>
 
@@ -18,10 +18,10 @@ Participate and fight together against Covid 19 and other deseases!
 
 <br>
 
->  🏠[#stayhome](https://stayhomecampaign.org/) <br>
-> 〽️[#FlattenTheCurve](https://www.flattenthecurve.com/)
-> :closed_lock_with_key:#privacy <br>
-> :no_entry_sign:#notsponsored <br>
+> 🏠[#stayhome](https://stayhomecampaign.org/) <br>
+> 〽️[#FlattenTheCurve](https://www.flattenthecurve.com/) <br>
+> 🔐#privacy <br>
+> 🚫#notsponsored <br>
 
 <!---
 MagicLike/MagicLike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
