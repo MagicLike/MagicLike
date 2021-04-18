@@ -1,4 +1,6 @@
-👋 Hi, I’m MagicLike! <br>
+:wave: Hey there, I’m MagicLike! Welcome to my GitHub! :octocat:
+
+<br>
 
 Here are some advices:
 * [Debloat your Windows!](https://github.com/MagicLike/Debloat-Windows-10)
@@ -6,6 +8,7 @@ Here are some advices:
 Participate and fight together against Covid 19 and other deseases!
   * [Download](https://www.foldingathome.org/download)
   * [GitHub](https://github.com/FoldingAtHome)
+* Care about your data and use a [secure, save & open source Messenger](https://github.com/MagicLike/secure-messaging/).
 * Always use sudo! <br>
   ![Sudo-Sandwich](/images/sandwich.png)
   <!---
@@ -16,7 +19,9 @@ Participate and fight together against Covid 19 and other deseases!
 <br>
 
 > :house:[#stayhome](https://stayhomecampaign.org/) <br>
-> :part_alternation_mark:[#FlattenTheCurve](https://www.flattenthecurve.com/)
+> :part_alternation_mark:[#FlattenTheCurve](https://www.flattenthecurve.com/) <br>
+> :closed_lock_with_key:#privacy <br>
+> :no_entry_sign:#notsponsored <br>
 
 <!---
 MagicLike/MagicLike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
