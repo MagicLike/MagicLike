@@ -10,7 +10,7 @@ Participate and fight together against Covid 19 and other deseases!
   * [GitHub](https://github.com/FoldingAtHome)
 * Care about your data and use a [secure & save messenger](https://github.com/MagicLike/secure-messaging/).
 * Always use sudo! <br>
-  ![Sudo-Sandwich](/images/sandwich.png)
+  ![Sudo-Sandwich](https://imgs.xkcd.com/comics/sandwich.png)
   <!---
     Credits: https://xkcd.com/149/
   --->
@@ -19,7 +19,7 @@ Participate and fight together against Covid 19 and other deseases!
 <br>
 
 > :house:[#stayhome](https://stayhomecampaign.org/) <br>
-> :part_alternation_mark:[#FlattenTheCurve](https://www.flattenthecurve.com/) <br>
+> :part_alternation_mark:[#FlattenTheCurve](https://en.wikipedia.org/wiki/Flattening_the_curve) <br>
 > :closed_lock_with_key:#privacy <br>
 > :no_entry_sign:#notsponsored <br>
 
