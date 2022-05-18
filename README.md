@@ -19,8 +19,6 @@ Participate and fight together against Covid 19 and other deseases!
 
 <br>
 
-> :house:[#stayhome](https://stayhomecampaign.org/) <br>
-> :part_alternation_mark:[#FlattenTheCurve](https://en.wikipedia.org/wiki/Flattening_the_curve) <br>
 > :closed_lock_with_key:#privacy <br>
 > :no_entry_sign:#notsponsored <br>
 
