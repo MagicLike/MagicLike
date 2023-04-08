@@ -17,11 +17,6 @@ Participate and fight together against Covid 19 and other deseases!
   --->
 * Have fun!
 
-<br>
-
-> :closed_lock_with_key:#privacy <br>
-> :no_entry_sign:#notsponsored <br>
-
 <!---
 MagicLike/MagicLike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
