@@ -8,13 +8,6 @@ Here are some advices:
 Participate and fight together against Covid 19 and other deseases!
   * **[Download](https://www.foldingathome.org/download)**
   * [GitHub](https://github.com/FoldingAtHome)
-* Care about your data and use a **[secure & save messenger](https://github.com/MagicLike/secure-messaging/)**.
-* Checkout my [very first game](magiclike.itch.io/test-playground), I just made in **5 days!**
-* **Always use sudo!** <br>
-  ![Sudo-Sandwich](https://imgs.xkcd.com/comics/sandwich.png)
-  <!---
-    Credits: https://xkcd.com/149/
-  --->
 * Have fun!
 
 <!---
