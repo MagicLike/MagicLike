@@ -9,6 +9,7 @@ Participate and fight together against Covid 19 and other deseases!
   * **[Download](https://www.foldingathome.org/download)**
   * [GitHub](https://github.com/FoldingAtHome)
 * Have fun!
+
 ![Sudo-Sandwich](https://imgs.xkcd.com/comics/sandwich.png)
 <!---
  Credits: https://xkcd.com/149/
